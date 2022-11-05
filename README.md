@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-slphyx-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/slphyx)](https://github.com/slphyx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-saralamba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saralamba)](https://www.linkedin.com/in/saralamba)
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--5460--8447-blue?style=flat-square&logo=ORCiD&logoColor=white&link=https://orcid.org/0000-0002-5460-8447)](https://orcid.org/0000-0002-5460-8447)
-[![Website](https://img.shields.io/badge/CV-Sompob%20Saralamba's%20CV-blue?style=flat-square&link=https://slphyx.github.io/)(https://slphyx.github.io)
+[![Website](https://img.shields.io/badge/CV-Sompob%20Saralamba's%20CV-blue?style=flat-square&logo=Google%20Earth&logoColor=white&)(https://slphyx.github.io)
 
 Have you ever thought about it? We want to be famous as a writer, as a poet, as a painter, as a politician, as a singer, or what you will. Why? Because we really don’t love what we are doing. If you loved to sing, or to paint, or to write poems – if you really loved it – you would not be concerned with whether you are famous or not. To want to be famous is tawdry, trivial, stupid, it has no meaning; but , because we don’t love what we are doing, we want to enrich ourselves with fame. Our present education is rotten because it teaches us to love success and not what we are doing. The result has become more important than the action.
 
