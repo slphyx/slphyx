@@ -1,6 +1,5 @@
 # Sompob Saralamba   สมภพ ศรลัมพ์
 
-<!--[![Website](https://img.shields.io/badge/Website-sakngoi.com-blue?style=flat-square&logo=Google%20Earth&logoColor=white&link=https://sakngoi.com)](https://sakngoi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-slphyx-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/slphyx)](https://github.com/slphyx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-saralamba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saralamba)](https://www.linkedin.com/in/saralamba)
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--5460--8447-blue?style=flat-square&logo=ORCiD&logoColor=white&link=https://orcid.org/0000-0002-5460-8447)](https://orcid.org/0000-0002-5460-8447)
